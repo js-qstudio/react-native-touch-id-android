@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "git://github.com/js-qstudio/react-native-touch-id-android.git#master",
+      "/Users/mac/projects/sbdt"
+    ]
+  ],
+  "_from": "git://github.com/js-qstudio/react-native-touch-id-android.git#master",
+  "_id": "react-native-touch-id-android@git://github.com/js-qstudio/react-native-touch-id-android.git#e6957c16bf9e9c9a9ff35229f08b87e1f50a835b",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-touch-id-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/js-qstudio/react-native-touch-id-android.git#master",
+    "rawSpec": "git://github.com/js-qstudio/react-native-touch-id-android.git#master",
+    "saveSpec": "git://github.com/js-qstudio/react-native-touch-id-android.git#master",
+    "fetchSpec": "git://github.com/js-qstudio/react-native-touch-id-android.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/js-qstudio/react-native-touch-id-android.git#e6957c16bf9e9c9a9ff35229f08b87e1f50a835b",
+  "_spec": "git://github.com/js-qstudio/react-native-touch-id-android.git#master",
+  "_where": "/Users/mac/projects/sbdt",
+  "bugs": {
+    "url": "https://github.com/ElekenAgency/react-native-touch-id-android/issues"
+  },
+  "dependencies": {},
+  "description": "touchID for React Native (Android)",
+  "devDependencies": {},
+  "homepage": "https://github.com/ElekenAgency/react-native-touch-id-android#readme",
+  "keywords": [
+    "touchID",
+    "touch",
+    "android",
+    "react-native",
+    "fingerprint",
+    "finger"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-touch-id-android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElekenAgency/react-native-touch-id-android.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.0"
+}
